@@ -1,0 +1,19 @@
+[ Parts List ]
+
+01.-> Arduino Uno
+02.-> 2.8" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket < https://www.adafruit.com/products/1770 >
+03.-> Adafruit FONA - Mini Cellular GSM Breakout uFL Version < https://www.adafruit.com/products/1946 >
+04.-> Lithium Ion Polymer Battery - 3.7v 2500mAh < https://www.adafruit.com/products/328 >
+05.-> Pololu Pushbutton Power Switch LV < http://www.pololu.com/product/751 >
+06.-> Pololu 5V Step-Up/Step-Down Voltage Regulator S7V8F5 < http://www.pololu.com/product/2123 >
+07.-> 3x5 keyboard matrix & reset + key buttons
+         07(a).-> 17 tack switches
+         07(b).-> 15 diodes
+08.-> Microphone
+09.-> Speaker
+10.-> Wire
+11.-> Breadboard
+12.-> Project box
+13.-> Syntra foam board
+14.-> Screws
+15.-> Spacers
